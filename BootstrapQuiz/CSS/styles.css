@@ -1,0 +1,36 @@
+body {
+    background-color: slategrey;
+}
+
+h1 {
+    text-align: center;
+}
+
+.imgSpace {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lacroixImg {
+    height: 70%;
+    width: 30%;
+}
+
+.snorlaxImg {
+    height: 60%;
+    width: 30%;
+}
+
+.yTImg {
+    height: 50%;
+    width: 30%;
+}
+
+.card-text {
+    font-family: fantasy;
+}
+
+.lText {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
